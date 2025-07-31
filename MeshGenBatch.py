@@ -1,3 +1,6 @@
+# This code is modified based on https://github.com/qianlim/POP,
+# the "lib" refers to the "lib" module of the original POP repository.
+
 import smplx
 import numpy as np
 import torch
